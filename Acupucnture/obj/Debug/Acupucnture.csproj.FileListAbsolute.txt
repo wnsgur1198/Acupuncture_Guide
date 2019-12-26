@@ -1,0 +1,98 @@
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\bin\Debug\Acupucnture.exe.config
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\bin\Debug\Acupucnture.exe
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\bin\Debug\Acupucnture.pdb
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\obj\Debug\Acupucnture.csprojResolveAssemblyReference.cache
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\obj\Debug\MainWindow.g.cs
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\obj\Debug\App.g.cs
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.cache
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.lref
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\obj\Debug\MainWindow.baml
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\obj\Debug\Acupucnture.g.resources
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\obj\Debug\Acupucnture.Properties.Resources.resources
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\obj\Debug\Acupucnture.csproj.GenerateResource.Cache
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\obj\Debug\Acupucnture.exe
+c:\users\hlk\documents\visual studio 2015\Projects\Acupucnture\Acupucnture\obj\Debug\Acupucnture.pdb
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\bin\Debug\Acupucnture.exe.config
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\obj\Debug\Acupucnture.exe
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\obj\Debug\Acupucnture.pdb
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\bin\Debug\Acupucnture.exe
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\bin\Debug\Acupucnture.pdb
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\obj\Debug\Acupucnture.csprojResolveAssemblyReference.cache
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\obj\Debug\MainWindow.g.cs
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\obj\Debug\App.g.cs
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.cache
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.lref
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\obj\Debug\MainWindow.baml
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\obj\Debug\Acupucnture.g.resources
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\obj\Debug\Acupucnture.Properties.Resources.resources
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver1\Acupucnture\obj\Debug\Acupucnture.csproj.GenerateResource.Cache
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\bin\Debug\Acupucnture.exe.config
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\obj\Debug\Acupucnture.exe
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\obj\Debug\Acupucnture.pdb
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\bin\Debug\Acupucnture.exe
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\bin\Debug\Acupucnture.pdb
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\obj\Debug\Acupucnture.csprojResolveAssemblyReference.cache
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\obj\Debug\MainWindow.g.cs
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\obj\Debug\App.g.cs
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.cache
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.lref
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\obj\Debug\MainWindow.baml
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\obj\Debug\Acupucnture.g.resources
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\obj\Debug\Acupucnture.Properties.Resources.resources
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver5\Acupucnture\obj\Debug\Acupucnture.csproj.GenerateResource.Cache
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.exe.config
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.exe
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.pdb
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.exe
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.pdb
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.csprojResolveAssemblyReference.cache
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\obj\Debug\MainWindow.g.cs
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\obj\Debug\App.g.cs
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.cache
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.lref
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\obj\Debug\MainWindow.baml
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.g.resources
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.Properties.Resources.resources
+C:\Users\hlk\Documents\Visual Studio 2015\Projects\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.csproj.GenerateResource.Cache
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.exe.config
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.exe
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.pdb
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.exe
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.pdb
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.csprojResolveAssemblyReference.cache
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\MainWindow.g.cs
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\App.g.cs
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.cache
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.lref
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\MainWindow.baml
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.g.resources
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.Properties.Resources.resources
+G:\대학\2학년\설계\프로젝트\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.csproj.GenerateResource.Cache
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.exe.config
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.exe
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.pdb
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.csprojAssemblyReference.cache
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\MainWindow.g.cs
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\App.g.cs
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.cache
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.lref
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\MainWindow.baml
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.g.resources
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.Properties.Resources.resources
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.csproj.GenerateResource.cache
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.exe
+C:\Users\wnsgu\Downloads\우리 프로젝트\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.pdb
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.exe.config
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.exe
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\bin\Debug\Acupucnture.pdb
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.csprojAssemblyReference.cache
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\obj\Debug\MainWindow.g.cs
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\obj\Debug\App.g.cs
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.cache
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture_MarkupCompile.lref
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\obj\Debug\MainWindow.baml
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.g.resources
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.Properties.Resources.resources
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.csproj.GenerateResource.cache
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.exe
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\지압가이드 프로그램\Acupucnture.ver7\Acupucnture\obj\Debug\Acupucnture.pdb
