@@ -1,7 +1,7 @@
 # Acupuncture_Guide
 > 학부생 2학년1학기 때 C# WPF로 개발한 지압 가이드 프로그램
 
-![](readme-img/header1.png)
+![](readme-img/header.png)
 ![](readme-img/header2.png)
 
 ## Installation
@@ -10,9 +10,11 @@
 
 ## Usage example
 
-닷넷 프레임워크를 이용한 지압 가이드 프로그램 가발
+닷넷 프레임워크를 이용한 손발 지압 가이드 프로그램 가발
 
 ## Development setup
+
+IDE: Visual Studio 2019
 
 Framework: .Net 4.7
 
